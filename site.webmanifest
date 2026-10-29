@@ -1,0 +1,21 @@
+{
+  "name": "Bahçeşehir Evde Serum & Sağlık Hizmetleri",
+  "short_name": "Bahçeşehir Serum",
+  "description": "Bahçeşehir ve çevresinde 30 dakikada kapınızda uzman hemşire ile evde serum takma ve sağlık hizmeti.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/assets/images/serum_cocktails.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/images/serum_cocktails.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
